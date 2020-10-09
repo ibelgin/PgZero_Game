@@ -35,6 +35,7 @@ def update():
         alien.left +=3
         zombie.left -= speed
         if alien.right >= WIDTH:
+                sounds.maximize_005.play()
                 bg_color = "background{}".format(randint(0,4))
                 screen.blit(bg_color,(0,0))
                 alien.pos = 30,randint(30,306)
@@ -43,6 +44,7 @@ def update():
                 speed +=0.5
             
         if zombie.colliderect(alien):
+            sounds.minimize_005.play()
             dead = True
 
 def on_key_down(key):
