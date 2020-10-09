@@ -18,7 +18,7 @@ pip install pgzero
 ```
 
 ```sh
-`Run __main__.py
+`Run main.py
 ```
 
 ## Modules Used :books:
