@@ -4,7 +4,7 @@ This is a Simple Adventure Game Using PgZero Module . Had A Good Time Learning T
 
 ## Demo Gameplay :video_game:
 
-![Demo Video](https://user-images.githubusercontent.com/61349423/95629397-768c9500-0a9d-11eb-85e3-70e5381774ec.gif)
+![GamePlay](https://user-images.githubusercontent.com/61349423/95662199-ca0cea80-0b52-11eb-9193-84986dc20041.gif)
 
 
 ### Installation :computer:
