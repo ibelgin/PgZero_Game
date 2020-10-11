@@ -92,7 +92,7 @@ def update():
     
 
 def level_find(n):
-    global created
+    global created,dead
     if not created:
         num_box(n)
         created = True
